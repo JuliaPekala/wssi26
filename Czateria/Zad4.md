@@ -19,12 +19,13 @@ widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
 5. Zdenerwuj bota 😊😊
 
+Odpowiedz:
 1. Bot “asystent” nie rozumie prostych polecen odległych od tych na które został zaprogramowany, a bot przygotowany na test Turinga zrozumie i odpowie na proste polecenia. Bot asystent na stronie Ikea nie jest w stanie odpowiedziec na pytanie czy opowie żart oraz na samym początku informuje nas, że jest asystentem, a np cleverbot rozumie polecenie i opowiada nam żart.
 
 Legenda:
+- Bot 1 - Asystent na stronie Ikea 
+- Bot 2 - Cleverbot 
 
-Bot 1 - Asystent na stronie Ikea 
-Bot 2 - Cleverbot 
 - A) Bot 1 nie rozumie polecenia i probuje od nas uzyskać informacje na temat zamówienia
 Bot 2 Opowiada nam żart 
 - B) Bot 1 nie podaje nam informacji nie zwiazanych z zamówieniem
@@ -42,3 +43,7 @@ Bot 2 odpowiada ogólnikowo i często niepoprawnie
 Bot 2 Zmienia tematy rozmów dość często
 - I) Bot 1 utrzymuje wątek 
 Bot 2 nie utrzymuje wątku długo
+
+4.- Podczas przepisywania odpowiedzi z Bota 1 do Bota 2 i odwrotnie, Bot 1 po dwóch wiadomościach opuścił chat
+
+5.- <img width="821" height="1150" alt="IMG_1422" src="https://github.com/user-attachments/assets/73da42c3-6fb2-46e7-b656-16bc33be08b6" />
